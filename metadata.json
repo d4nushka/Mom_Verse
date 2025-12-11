@@ -1,0 +1,8 @@
+{
+  "name": "MomVerse",
+  "description": "An AI-powered companion for new mothers, providing support for crying analysis, symptom checking, feeding tracking, and emotional wellness.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
